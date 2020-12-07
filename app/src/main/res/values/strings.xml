@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPokemonProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title">Pokemon Characters</string>
+
+</resources>
